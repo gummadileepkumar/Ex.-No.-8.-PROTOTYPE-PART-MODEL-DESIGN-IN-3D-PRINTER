@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![model](mechanics%20exp-8.1.png)
 
-### Name:
-### Register Number:
+### Name: Gumma Dileep Kumar
+### Register Number: 212222240032
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
